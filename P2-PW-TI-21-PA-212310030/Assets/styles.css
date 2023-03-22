@@ -1,0 +1,77 @@
+p{ font-size: 15px;}
+
+.bg-first {
+    background-color: aqua;
+    color: black;
+}
+
+.bg-second {
+    background-color: lawngreen;
+    color: black;
+}
+.bg-third {
+    background-color:magenta;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.bgcolor{
+    background-color: blue;
+    color: white;
+}
+
+table, th, td {
+
+    border: 2px solid aqua;
+    border-collapse: collapse;
+}
+
+tr {
+    text-align: center;
+}
+
+.danger{
+    color: red;
+}
+
+.go{
+    color: lawngreen;
+}
+
+.warn{
+    color: yellow;
+}
+
+img {
+    height: 20%;
+    background-size: contain;
+    width: 20%
+}
+
+.subfont {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.border {
+    border: 2px solid black;
+    width: 30%;
+    padding: 10px;
+    align-content: center;
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+    float: left;
+
+}
+
+.name{
+    font-size: 20px; padding-left: 200px; padding-bottom: 200px;
+}
+body {
+    background-color: beige;
+}
+
+.profile {
+    border: 2px solid black; 
+    float:left;
+}
